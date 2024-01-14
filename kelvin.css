@@ -122,7 +122,7 @@ padding-top: 100px;
 
 @media screen and (max-width:992px){
 .heading{
-font-size: 60px;
+font-size: 20px;
 padding: 20px;
   }
 }
@@ -136,12 +136,7 @@ padding: 20px;
 padding: 20px;
 }
 
-@media screen and (max-width:992px){
-.heading-p{
-font-size:30px;
-color: gray;
-  }
-}
+
 
 
 .main-content2{
@@ -224,7 +219,7 @@ padding-top: 20px;
 
 @media screen and (max-width:992px){
 .about h1{
-font-size: 60px;
+font-size: 20px;
 padding: 20px;
 font-weight: 100;
   }
@@ -510,11 +505,11 @@ flex-direction: column;
 
   @media screen and (max-width:700px){
     .brand h1{
-      font-size: 60px;
+      font-size: 20px;
       text-align: center;
     }
     .brand p{
-      font-size: 30px;
+      font-size:14px;
       color: gray;
       text-align: center;
     }
@@ -558,11 +553,11 @@ padding-top: 0px;
 
 @media screen and (max-width:700px){
   .review h3{
-    font-size: 50px;
+    font-size: 18px;
     text-align: center;
   }
   .brand-container p{
-    font-size: 30px;
+
     color: gray;
     text-align: center;
   }
